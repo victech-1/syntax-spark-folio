@@ -8,7 +8,7 @@ const projects = [
     techStack: ["React", "Node.js", "MongoDB", "Stripe API", "Tailwind CSS"],
     category: "Frontend Development",
     icon: Code,
-    githubUrl: "https://github.com",
+    githubUrl: "https://github.com/yourusername/ecommerce-app", // Replace with your actual repo
     liveUrl: "https://example.com",
     featured: true
   },
